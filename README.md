@@ -16,5 +16,5 @@ This project provide a sample application to send messages to various users usin
 ## Postman requests:
 
     Request type: POST
-    UrL: localhost:8081/messaging/send/7
+    URL: localhost:8081/messaging/send/7
     DATA: {"id":1,"name":"girish","date":"16/12/2019","message":"Hello"}
